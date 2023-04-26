@@ -1,0 +1,9 @@
+e=6
+f=4
+e,f=f,e
+print(e)
+print(f)
+
+OUTPUT:
+4
+6
