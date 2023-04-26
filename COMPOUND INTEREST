@@ -1,0 +1,12 @@
+import math
+p=int(input("enter the principal amount"))
+r=int(input("enter the interest rate"))
+n=int(input("enter the time period"))
+compound_interest=p*math.pow((1+r/100),n)
+print(compound_interest)
+
+OUTPUT:
+enter the principal amount1200
+enter the interest rate5
+enter the time period2
+1323.0
