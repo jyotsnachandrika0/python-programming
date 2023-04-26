@@ -1,0 +1,11 @@
+a=10
+b=5
+temp=a
+a=b
+b=temp
+print("the value of a after swapping is : ",a)
+print("the value of b after swapping is : ",b)
+
+OUTPUT:
+the value of a after swapping is :  5
+the value of b after swapping is :  10
