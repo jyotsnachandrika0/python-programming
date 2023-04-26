@@ -1,0 +1,18 @@
+name=input("enter your name")
+print(name)
+address=input("enter your address")
+print(address)
+email=input("enter your email")
+print(email)
+phone_number=int(input("enter your phone number"))
+print(phone_number)
+
+OUTPUT:
+enter your name jyotsna chandrika
+ jyotsna chandrika
+enter your addressflatno-g2,roadno-6c,srichakratowers,bandarilayout,nizampet
+flatno-g2,roadno-6c,srichakratowers,bandarilayout,nizampet
+enter your email 22wh1a12c9@bvrithyderabad.edu.in
+ 22wh1a12c9@bvrithyderabad.edu.in
+enter your phone number9932765318
+9932765318
