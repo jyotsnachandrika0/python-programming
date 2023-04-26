@@ -1,0 +1,13 @@
+ch=input("enter a character")
+if ch>='a' and ch<='z':
+  print("{} is a lowercase character".format(ch))
+elif ch>='A' and ch<='Z':
+  print("{} is a uppercase character".format(ch))
+elif ch>='0' and ch<='9':
+  print("{} is a digit ".format(ch))
+else:
+  print("{} is a special character ".format(ch))
+
+OUTPUT:
+enter a character #
+ # is a special character 
